@@ -19,6 +19,4 @@ Criei este projeto  com o objetivo de desenvolver um sistema para gerenciamento 
 ### Para rodar o projeto
 `npm run dev`
 
-Link do projeto: <a href="https://paulogilvan.github.io/climate-weather/">animals-pet</a>
-
 <img src="https://github.com/paulogilvan/animals-petshop/blob/main/public/images/layout.png?raw=true" />
